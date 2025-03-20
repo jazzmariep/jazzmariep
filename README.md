@@ -1,6 +1,6 @@
 ## Hi there, I'm Jasmine! 👋
 ## I am currently working on a portfolio to jumpstart my Data Analytics career. 
-##I'm looking to receive feedback on my projects. 
+## I'm looking to receive feedback on my projects. 
 
 <!--
 **jazzmariep/jazzmariep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
